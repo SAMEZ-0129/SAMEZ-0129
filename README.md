@@ -10,7 +10,7 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
-
+# 🔭 뛰어난 개발자가 되는 그날까지...
 <!--
 **SAMEZ-0129/SAMEZ-0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
