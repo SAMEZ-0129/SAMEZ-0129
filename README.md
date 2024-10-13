@@ -10,6 +10,12 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
+## 🌐 연락처 / Contact Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9A%B1-%EB%82%A8%EA%B6%81-4618a3259/)
+
+minuk005@naver.com
+
 # 🔭 유능한 개발자가 되는 그날까지...
 <!--
 **SAMEZ-0129/SAMEZ-0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
