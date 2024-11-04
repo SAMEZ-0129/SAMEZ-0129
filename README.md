@@ -1,5 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!&desc=Minuk's%20Github%20Profile&descAlign=57)
 
+# 안녕하세요, 남궁민욱입니다.👋
+Tech Support Engineer / Front-End / Back-End
+
+## 배움을 즐기며 성장하는 것을 좋아합니다.
+개인/팀 단위로 스터디를 하며 지식을 쌓고 역량을 향상시키는 것을 좋아합니다.
+최신 기술이나 아직 배우지 못한 분야에 대한 재미도 많이 느낍니다.
+그만큼 성장이라는 과정을 중요시 생각합니다.
+
+## 긍정적인 에너지와 적응력
+늘 긍정적인 에너지를 가지며 살아가고 있습니다.
+또한 적응력이 뛰어나 대부분의 환경에서 잘 어울리고 긍정적인
+영향을 주는 것에 보람을 느낍니다.
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSAMEZ-0129%2Fhit-counter&count_bg=%2303C75A&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div allign="center">
